@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi Everyone. I am Trishnangshu Goswami 👋
 
 <!--
 **tsgoswami/tsgoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-UI Dev [@Flipkart](https://github.com/Flipkart)
+UI Developer [@Flipkart](https://github.com/Flipkart)
 
 
 ![Trishnangshu's github stats](https://github-readme-stats.vercel.app/api?username=tsgoswami&count_private=true&show_icons=true)
